@@ -7,11 +7,22 @@
 
 I am Chet Lockwood, an associate software engineer and recent Computer Science grad
 
-![Atoms-x's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atoms-x&show_icons=true&theme=neon)
+<a href="https://github.com/Atoms-x/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Atoms-x&show_icons=true&theme=neon" />
+</a>
+<a href="https://github.com/Atoms-x/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atoms-x&layout=donut&theme=neon" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atoms-x&layout=donut&theme=neon)](https://github.com/Atoms-x/github-readme-stats)
+##
+###
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atoms-x&repo=Into-the-Void&theme=neon)](https://github.com/Atoms-x/Into-the-Void)
+<a href="https://github.com/Atoms-x/CSCE-3444-Project-Management-Application">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Atoms-x&repo=CSCE-3444-Project-Management-Application&theme=neon" />
+</a>
+<a href="https://github.com/Atoms-x/Into-the-Void">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Atoms-x&repo=Into-the-Void&theme=neon" />
+</a>
 
 <!--
 **Atoms-x/Atoms-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
