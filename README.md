@@ -18,8 +18,8 @@ I am Chet Lockwood, an associate software engineer and recent Computer Science g
 ## Projects
 ###
 
-<a href="https://github.com/Atoms-x/CSCE-3444-Project-Management-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Atoms-x&repo=CSCE-3444-Project-Management-Application&theme=neon" />
+<a href="https://github.com/calypsdo/CSCE-3444-Project-Management-Application">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calypsdo&repo=CSCE-3444-Project-Management-Application&theme=neon" />
 </a>
 &nbsp; &nbsp;
 <a href="https://github.com/Atoms-x/CSCE-3444-Project-Management-Application">
