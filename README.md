@@ -22,7 +22,7 @@ I am Chet Lockwood, an associate software engineer and recent Computer Science g
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calypsdo&repo=CSCE-3444-Project-Management-Application&theme=neon" />
 </a>
 &nbsp; &nbsp;
-<a href="https://github.com/Atoms-x/CSCE-3444-Project-Management-Application">
+<a href="https://github.com/calypsdo/CSCE-3444-Project-Management-Application">
   <img align="center" src="https://github.com/Atoms-x/Atoms-x/assets/8111664/0771a5b2-9896-4ae3-b949-b8bde39c2488"/>
 </a>
 
@@ -44,8 +44,18 @@ I am Chet Lockwood, an associate software engineer and recent Computer Science g
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Atoms-x&repo=Dynamic-Vertex-Renderer&theme=neon" />
 </a>
 &nbsp; &nbsp;
-<a href="https://github.com/Atoms-x/CSCE-3444-Project-Management-Application">
+<a href="https://github.com/Atoms-x/Dynamic-Vertex-Renderer">
   <img align="center" src="https://github.com/Atoms-x/Atoms-x/assets/8111664/130a79a1-0638-420c-a2b6-a1d86c747fad"/>
+</a>
+
+###
+
+<a href="https://github.com/Alexander-Kahanek/NintendAI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Kahanek&repo=NintendAI&theme=neon" />
+</a>
+&nbsp; &nbsp;
+<a href="https://github.com/Alexander-Kahanek/NintendAI">
+  <img align="center" src="https://github.com/Atoms-x/Atoms-x/assets/8111664/43bd09e0-732f-4793-99a9-ebcf6ab9f301"/>
 </a>
 
 ###
