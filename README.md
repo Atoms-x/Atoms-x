@@ -1,11 +1,50 @@
 
 ![DreamShaper_v7_AI Generated Image](https://github.com/Atoms-x/Atoms-x/assets/8111664/df9a8e96-97a6-413c-aca4-2c75aa370e4c)
 
-# Hi there! 👋
+# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
+My name is Chet Lockwood; I am an associate software engineer and recent Computer Science grad. I am an avid supporter of AI and look forward to the fantastical advances that should come along with its integration. I enjoy a wide range of hobbies, but love to ideate and create.
+- ⚡ Fun fact: I am a Green Beret in the US Special Forces
 
 ## About Me
 
-I am Chet Lockwood, an associate software engineer and recent Computer Science grad
+### Skills
+
+<p align="left"> 
+  <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"
+ </a>
+  <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"
+ </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"
+ </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white"
+ </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"
+ </a>
+  <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black"
+ </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"
+ </a>
+</p>
+
+### Socials
+
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/chet-lockwood/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"
+ </a>
+  <a href="https://www.github.com/Atoms-x" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"
+ </a>
+</p>
+
 
 <a href="https://github.com/Atoms-x/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Atoms-x&show_icons=true&theme=neon" />
@@ -87,6 +126,7 @@ I am Chet Lockwood, an associate software engineer and recent Computer Science g
 <a href="https://github.com/Atoms-x/CSCE-3444-Project-Management-Application">
   <img align="center" src="https://github.com/Atoms-x/Atoms-x/assets/8111664/bbc7795b-3a5b-462e-8ccd-3be4281c380c"/>
 </a>
+
 <!--
 **Atoms-x/Atoms-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
