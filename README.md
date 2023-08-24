@@ -1,5 +1,6 @@
-
-![DreamShaper_v7_AI Generated Image](https://github.com/Atoms-x/Atoms-x/assets/8111664/df9a8e96-97a6-413c-aca4-2c75aa370e4c)
+<a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Atoms-x/Atoms-x/assets/8111664/777bf096-e30f-4674-a951-ebf306ebf7ab" height="600"
+ </a>
 
 # Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
