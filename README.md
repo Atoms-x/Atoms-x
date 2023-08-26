@@ -2,7 +2,7 @@
   <img src="https://github.com/Atoms-x/Atoms-x/assets/8111664/777bf096-e30f-4674-a951-ebf306ebf7ab" width="1368"
  </a>
 
-# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi there! 👋
 
 My name is Chet Lockwood; I am an associate software engineer and recent Computer Science grad. I am an avid supporter of AI and look forward to the fantastical advances that should come along with its integration. I enjoy a wide range of hobbies, but love to ideate and create.
 - ⚡ Fun fact: I am a Green Beret in the US Special Forces
