@@ -4,7 +4,7 @@
 
 # Hi there! 👋
 
-My name is Chet Lockwood; I am an associate software engineer and recent Computer Science grad. I am an avid supporter of AI and look forward to the fantastical advances that should come along with its integration. I enjoy a wide range of hobbies, but love to ideate and create.
+My name is Chet Lockwood; I'm a software engineer at Boeing. I am an avid supporter of AI and look forward to the fantastical advances that should come along with its integration. I enjoy a wide range of hobbies, but love to ideate and create.
 - ⚡ Fun fact: I am a Green Beret in the US Special Forces
 
 ## About Me
@@ -41,7 +41,8 @@ My name is Chet Lockwood; I am an associate software engineer and recent Compute
 ### Socials
 
 <p align="left"> 
-  <a href="https://www.linkedin.com/in/chet-lockwood/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/chet-lockwood/" target
+="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"
  </a>
   <a href="https://www.github.com/Atoms-x" target="_blank" rel="noreferrer">
